@@ -1746,7 +1746,7 @@
 <instance part="SUPPLY55" gate="GND" x="-35.56" y="-459.74" smashed="yes" rot="R270"/>
 <instance part="SUPPLY56" gate="GND" x="-38.1" y="-482.6" smashed="yes" rot="R270"/>
 <instance part="SUPPLY57" gate="GND" x="-40.64" y="-505.46" smashed="yes" rot="R270"/>
-<instance part="SUPPLY58" gate="GND" x="-40.64" y="-525.78" smashed="yes" rot="R270"/>
+<instance part="SUPPLY58" gate="GND" x="-40.64" y="-528.32" smashed="yes" rot="R270"/>
 </instances>
 <busses>
 </busses>
