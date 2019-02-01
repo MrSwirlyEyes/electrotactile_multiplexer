@@ -36,6 +36,7 @@ void loop() {
     delay(1000);
     pwm1.setPWM(i,4096,0);
     delay(100);
+    
   }
   for (int j=0; j<=3; j++){
     pwm2.setPWM(j,0,4096);
